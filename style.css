@@ -184,14 +184,14 @@ grid-column: 1/ span 4;
 grid-row: 2;
 }
 
-#printmaking {
+/* #printmaking {
 grid-column: 1/ span 3;
 grid-row: 3;
-}
+} */
 
 #design {
 grid-column: 1/ span 3;
-grid-row: 4;
+grid-row: 3;
 }
 
 
