@@ -169,7 +169,7 @@ img {
 #portfolio {
   display: grid;
   grid-template-columns: 200px 200px 200px;
-  grid-template-rows: auto auto auto auto;
+  grid-template-rows: auto 25% 25% auto;
   grid-gap: 10px;
 }
 
