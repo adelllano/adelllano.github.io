@@ -168,7 +168,7 @@ img {
 
 #portfolio {
   display: grid;
-  grid-template-columns: 200px 200px 200px;
+  grid-template-columns: 200px 200px 200px 200px;
   grid-template-rows: auto auto auto auto;
   grid-gap: 10px;
 }
@@ -178,10 +178,7 @@ grid-column: 1/ span 4;
 grid-row: 1;
 }
 
-#photography {
-grid-column: 1/ span 4;
-grid-row: 3;
-}
+
 
 /* #printmaking {
 grid-column: 1/ span 3;
@@ -191,6 +188,11 @@ grid-row: 3;
 #design {
 grid-column: 1/ span 4;
 grid-row: 2;
+}
+
+#photography {
+grid-column: 1/ span 4;
+grid-row: 3;
 }
 
 
